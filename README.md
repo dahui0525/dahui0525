@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**dahui0525/dahui0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=yerim's%20GitHub&descAlign=70.&descAlignY=44)
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+  <hr>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahui0525&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a6273309)](https://solved.ac/a6273309/)
+
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+</div>
